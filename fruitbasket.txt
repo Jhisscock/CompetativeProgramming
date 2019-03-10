@@ -1,0 +1,2 @@
+Find total amount of options then subtract the amounts that could be 
+fruitbaskets.
